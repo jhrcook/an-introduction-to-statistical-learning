@@ -75,3 +75,5 @@ vignettes/*.pdf
 
 # End of https://www.gitignore.io/api/r,macos
 
+# Ignore the PDF of the book.
+an-introduction-to-statistical-learning.pdf
