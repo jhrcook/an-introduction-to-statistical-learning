@@ -1,0 +1,11 @@
+# Colors in R.
+blue <- "#305fa6"
+green <- "#32a852"
+red <- "#a63030"
+orange <- "#ab8630"
+purple <- "#7030ab"
+white <- "white"
+black <- "black"
+light_grey <- "grey80"
+grey <- "grey50"
+dark_grey <- "grey25"
